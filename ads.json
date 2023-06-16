@@ -1,13 +1,13 @@
 {
 "AdType": "facebook",
-"Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"Interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"NativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"Banner": "1005918463751432_1005921170417828",
+"Interstitial": "1005918463751432_1006459540363991",
+"NativeBanner": "1005918463751432_1006459607030651",
 "Rewarded": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 "count": "4",
-"buttton": "0",
+"buttton": "1",
 "mc": "5526259",
 "tn": "trans_3Uov0SDD7p",
-"upiID": "mavani@sbi",
+"upiID": "sarangsolution@sbi",
 "inr": "99"
 }
